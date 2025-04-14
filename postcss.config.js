@@ -1,1 +1,7 @@
-// Conteúdo de exemplo para postcss.config.js
+
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {}
+  }
+}
