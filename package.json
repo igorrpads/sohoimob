@@ -1,16 +1,1 @@
-{
-  "name": "sohoimob",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "tailwindcss": "^3.0.0"
-  }
-}
+// Conteúdo de exemplo para package.json
